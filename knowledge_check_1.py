@@ -27,7 +27,7 @@ for planet in planets:
 
 print('My homeworld is ' + planets[2] + '.')
 
-print('However, be careful as one is reall neurotic. No, it\'s not that one silly. It\'s ' + planets[5] + '.')
+print('However, be careful as one is really neurotic. No, it\'s not that one silly. It\'s ' + planets[5] + '.')
 
 
 
